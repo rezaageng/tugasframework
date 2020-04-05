@@ -59,7 +59,7 @@ class controller extends CI_Controller {
 	{
 		$judul = [
 			'judul' => 'Tentang',
-			'halaman' => 'Data Diri'
+			'halaman' => 'Informasi'
 		];
 
 		$this->load->view('header', $judul);
