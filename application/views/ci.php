@@ -30,14 +30,7 @@
           </div>
           <div class="card-body">
             <p>
-            Framework adalah kerangka kerja. Jika di ilustrasikan framework seperti telah membuat sebuah proyek atau tugas yang selesai, kemudian tugas atau proyek yang baru sama seperti sebelumnya. Tugas tersebut bisa di selesaikan dengan menggunakan fungsi yang sama seperti tugas sebelumnya. Seperti itulah ilustrasi sebuah framework. Framework sendiri sudah di buat oleh seseorang dan tinggal menggunakan fungsi-fungsi yang sudah di sediakan. Berarti framework adalah fungsi fungsi yang re-useable. Yang artinya dapat digunakan terus menerus. 
-            </p>
-            <p>Manfaat Framework :</p>
-            <ol>
-              <li>Mempercepat pekerjaan. Fungsi framework adalah mempercepat pekerjaan. Fungsi ini akan sangat terasa sekali saat menggunakan framework. </li>
-              <li>Menghemat waktu. Dengan menggunakan framework maka penggunaan waktu akan sangat hemat. Dikarenakan kode nya re-useable. </li>
-              <li>Keamanan. Menggunakan framework sendiri kemanan nya sudah diatur sedemikian rupa. Sehingga tak perlu lagi untuk memikirkan keamanan pada aplikasi yang di buat. </li>
-            </ol>
+            CodeIgniter adalah sebuah web application network yang bersifat open source yang digunakan untuk membangun aplikasi php dinamis. CodeIgniter menjadi sebuah framework PHP dengan model MVC ( Model, View, Controller )  untuk membangun website dinamis dengan menggunakan PHP yang dapat mempercepat pengembang untuk membuat sebuah aplikasi web.  
           </div>
         </div>
       </div>
